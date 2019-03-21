@@ -1,0 +1,15 @@
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\parracs\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
